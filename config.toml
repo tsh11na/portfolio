@@ -1,7 +1,8 @@
 # https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.toml
 
 baseURL = 'https://tsh11na.github.io/portfolio/'
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'ja'
+publishDir = "public"
 
 # Book configuration
 enableGitInfo = true
@@ -28,7 +29,6 @@ enableGitInfo = true
 [params]
   BookTheme = 'auto'
   BookMenuBundle = '/menu'
-  BookSection = 'docs'
   BookRepo = 'https://github.com/tsh11na/portfolio'
 
 [module]
