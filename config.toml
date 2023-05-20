@@ -2,7 +2,7 @@
 
 baseURL = 'https://tsh11na.github.io/portfolio/'
 defaultContentLanguage = 'ja'
-publishDir = "public"
+publishDir = "docs"
 
 # Book configuration
 enableGitInfo = true
