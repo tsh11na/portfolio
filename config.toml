@@ -1,3 +1,33 @@
+# https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.toml
+
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+defaultContentLanguage = 'en'
+theme = "hugo-book"
+
+# Book configuration
+enableGitInfo = true
+
+# Multi-language mode config
+[languages]
+  [languages.en]
+    languageName = "English"
+    contentDir = 'content/en'
+    title = 'Takeru Shiina'
+    weight = 1
+
+  [languages.ja]
+    languageName = "日本語"
+    contentDir = 'content/ja'
+    title = "椎名 健"
+    weight = 2
+
+[menu]
+  [[menu.after]]
+    name = "Link to GitHub"
+    url = "https://github.com/tsh11na"
+
+[params]
+  BookTheme = 'auto'
+  BookMenuBundle = '/menu'
+  BookSection = 'docs'
+  BookRepo = 'https://github.com/tsh11na/portfolio'
