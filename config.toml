@@ -2,7 +2,6 @@
 
 baseURL = 'http://example.org/'
 defaultContentLanguage = 'en'
-theme = "hugo-book"
 
 # Book configuration
 enableGitInfo = true
@@ -31,3 +30,7 @@ enableGitInfo = true
   BookMenuBundle = '/menu'
   BookSection = 'docs'
   BookRepo = 'https://github.com/tsh11na/portfolio'
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
