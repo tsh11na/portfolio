@@ -1,6 +1,6 @@
 # https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.toml
 
-baseURL = 'http://example.org/'
+baseURL = 'https://tsh11na.github.io/portfolio/'
 defaultContentLanguage = 'en'
 
 # Book configuration
