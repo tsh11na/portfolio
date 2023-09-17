@@ -27,7 +27,6 @@ enableGitInfo = true
     url = "https://github.com/tsh11na"
 
 [params]
-  BookTheme = 'auto'
   BookMenuBundle = '/menu'
   BookRepo = 'https://github.com/tsh11na/portfolio'
 

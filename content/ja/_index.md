@@ -9,14 +9,14 @@
 指導教員：[加藤竜司](https://www.ps.nagoya-u.ac.jp/teaching_staff/kato/)先生
 
 
-卓越大学院プログラム "CIBoG" 第2期履修生 （[CIBoGプロフィール](https://cibog.med.nagoya-u.ac.jp/outline/students/detail/02-shiina.html)）
+卓越大学院プログラム CIBoG 第2期履修生 （[CIBoGプロフィール](https://cibog.med.nagoya-u.ac.jp/outline/students/detail/02-shiina.html)）
 
 ## 研究キーワード
 - 画像処理
   - モルフォロジー演算
   - 空間フィルタリング
 - AI・機械学習
-  - 深層学習（ディープラーニング）
+  - 深層学習（Deep Learning）
   - データデザイン
 - 細胞品質管理
   - ラベルフリーイメージング
