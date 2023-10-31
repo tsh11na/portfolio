@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>椎名 健</title>
+    <title>Docs on 椎名 健</title>
     <link>https://tsh11na.github.io/portfolio/docs/</link>
-    <description>Recent content on 椎名 健</description>
+    <description>Recent content in Docs on 椎名 健</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://tsh11na.github.io/portfolio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>コーディングスキル</title>
-      <link>https://tsh11na.github.io/portfolio/docs/coding/</link>
+      <title>略歴</title>
+      <link>https://tsh11na.github.io/portfolio/docs/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tsh11na.github.io/portfolio/docs/coding/</guid>
-      <description> コーディングスキル # 使用経験のあるツール # プログラミング言語 # Python Pandas scikit-learn scikit-image/OpenCV Django Flask C言語 C++ JavaScript Google Apps Script R言語 Go言語 その他 # Linux Ubuntu Docker Git/GitHub </description>
-    </item>
-    
-    <item>
-      <title>業績</title>
-      <link>https://tsh11na.github.io/portfolio/docs/achievements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsh11na.github.io/portfolio/docs/achievements/</guid>
-      <description>業績 # 研究発表 # 2023 # Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, &amp;ldquo;Importance of data design for developing robust image processing with deep learning,&amp;rdquo; TERMIS-AP2023, Hong Kong Science Park, Hong Kong, 2023.10.19.
-Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, “Ambient intelligence for cell manufacturing DX,” YABEC2023, Tainan, Taiwan, 2023.7.13.
-椎名健, 木村和恵, 田中健二郎, 加藤竜司, “細胞集団ヘテロ性を記述するための細胞形態情報解析,” 第22回日本再生医療学会, 京都, 2023.3.24.
-椎名健, 木村和恵, 竹本悠人, 田中健二郎, 加藤竜司, “深層細胞解析モデルのロバスト化を実現するデータ要件の検証,” 化学工学会第88年会, 東京, 2023.</description>
+      <guid>https://tsh11na.github.io/portfolio/docs/career/</guid>
+      <description>略歴 # 博士課程 | 2022- # 名古屋大学 大学院創薬科学研究科 基盤創薬学専攻
+創薬生物科学講座 細胞分子情報学分野（加藤研究室）
+修士課程 | 2020-2022 # 名古屋大学 大学院情報学研究科 知能システム学専攻
+システム知能情報学講座 森研究室
+学部 | 2015-2019 # 名古屋大学 工学部 電気電子・情報工学科
+情報工学コース 石川研究室</description>
     </item>
     
     <item>
@@ -42,17 +35,31 @@ TIN（Triangulated Irregular Network）は、三角形の集合で領域を表�
     </item>
     
     <item>
-      <title>略歴</title>
-      <link>https://tsh11na.github.io/portfolio/docs/career/</link>
+      <title>コーディングスキル</title>
+      <link>https://tsh11na.github.io/portfolio/docs/coding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tsh11na.github.io/portfolio/docs/career/</guid>
-      <description>略歴 # 博士課程 | 2022- # 名古屋大学 大学院創薬科学研究科 基盤創薬学専攻
-創薬生物科学講座 細胞分子情報学分野（加藤研究室）
-修士課程 | 2020-2022 # 名古屋大学 大学院情報学研究科 知能システム学専攻
-システム知能情報学講座 森研究室
-学部 | 2015-2019 # 名古屋大学 工学部 電気電子・情報工学科
-情報工学コース 石川研究室</description>
+      <guid>https://tsh11na.github.io/portfolio/docs/coding/</guid>
+      <description>コーディングスキル # 使用経験のあるツール # プログラミング言語 # Python Pandas scikit-learn scikit-image/OpenCV Django Flask Jupyter Notebook C言語 C++ JavaScript Google Apps Script R言語 Go言語 その他 # Linux Ubuntu Docker Git/GitHub GitHub Actions 開発経験 # ツケ管理Webアプリ &amp;ldquo;Tsukepp&amp;rdquo; # https://github.com/tsh11na/tsukepp
+個人商店などでのツケを記録、清算できるアプリケーション
+使用技術：Python (Django), PostgreSQL, GitHub Actions 開発人数：自分のみ 病院向け予約システム # 病院の検体検査の予約処理（メール送信、カレンダー登録など）を自動化するシステム
+使用技術：Google Apps Script 開発人数：自分のみ 続報記事の自動特定機構 # 新聞記事の続報を自動的に取得し、表示するWebアプリケーション
+（新聞社のインターンシップ課題として取り組み）
+使用技術：Python (Flask), Docker, 形態素解析器 &amp;ldquo;MeCab&amp;rdquo; 開発人数：3人 3日間のハッカソン形式 Webパフォーマンスチューニング # 低速な模擬ECサイトをパフォーマンスチューニングする課題
+（人材系企業のインターンシップ課題として取り組み）
+使用技術：Go, Docker 開発人数：3人 2日間のハッカソン形式 研究室用備品管理システム # 研究室のPCやディスプレイなどの備品を「今、誰が使っているか」を一元管理できるアプリ</description>
+    </item>
+    
+    <item>
+      <title>業績</title>
+      <link>https://tsh11na.github.io/portfolio/docs/achievements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tsh11na.github.io/portfolio/docs/achievements/</guid>
+      <description>業績 # 研究発表 # 2023 # Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, &amp;ldquo;Importance of data design for developing robust image processing with deep learning,&amp;rdquo; TERMIS-AP2023, Hong Kong Science Park, Hong Kong, 2023.10.19.
+Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, “Ambient intelligence for cell manufacturing DX,” YABEC2023, Tainan, Taiwan, 2023.7.13.
+椎名健, 木村和恵, 田中健二郎, 加藤竜司, “細胞集団ヘテロ性を記述するための細胞形態情報解析,” 第22回日本再生医療学会, 京都, 2023.3.24.
+椎名健, 木村和恵, 竹本悠人, 田中健二郎, 加藤竜司, “深層細胞解析モデルのロバスト化を実現するデータ要件の検証,” 化学工学会第88年会, 東京, 2023.</description>
     </item>
     
   </channel>
