@@ -2,27 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tsh11na.github.io/portfolio/</loc>
-    <lastmod>2023-09-17T11:47:25+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tsh11na.github.io/portfolio/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tsh11na.github.io/portfolio/"
-                />
-  </url><url>
-    <loc>https://tsh11na.github.io/portfolio/achievements/</loc>
-    <lastmod>2023-09-17T11:47:12+09:00</lastmod>
-  </url><url>
-    <loc>https://tsh11na.github.io/portfolio/career/</loc>
-    <lastmod>2023-05-20T17:58:51+09:00</lastmod>
-  </url><url>
-    <loc>https://tsh11na.github.io/portfolio/research/</loc>
-    <lastmod>2023-05-20T17:58:51+09:00</lastmod>
+    <loc>https://tsh11na.github.io/portfolio/docs/</loc>
   </url><url>
     <loc>https://tsh11na.github.io/portfolio/categories/</loc>
     <xhtml:link
@@ -47,5 +27,25 @@
                 hreflang="ja"
                 href="https://tsh11na.github.io/portfolio/tags/"
                 />
+  </url><url>
+    <loc>https://tsh11na.github.io/portfolio/docs/coding/</loc>
+  </url><url>
+    <loc>https://tsh11na.github.io/portfolio/docs/achievements/</loc>
+  </url><url>
+    <loc>https://tsh11na.github.io/portfolio/docs/research/</loc>
+  </url><url>
+    <loc>https://tsh11na.github.io/portfolio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tsh11na.github.io/portfolio/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tsh11na.github.io/portfolio/"
+                />
+  </url><url>
+    <loc>https://tsh11na.github.io/portfolio/docs/career/</loc>
   </url>
 </urlset>

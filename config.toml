@@ -11,13 +11,13 @@ enableGitInfo = true
 [languages]
   [languages.en]
     languageName = "English"
-    contentDir = 'content/en'
+    contentDir = 'content.en'
     title = 'Takeru Shiina'
     weight = 1
 
   [languages.ja]
     languageName = "日本語"
-    contentDir = 'content/ja'
+    contentDir = 'content.ja'
     title = "椎名 健"
     weight = 2
 
@@ -27,9 +27,8 @@ enableGitInfo = true
     url = "https://github.com/tsh11na"
 
 [params]
-  BookMenuBundle = '/menu'
   BookRepo = 'https://github.com/tsh11na/portfolio'
-  
+
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'light'
