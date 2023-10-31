@@ -12,12 +12,16 @@
 卓越大学院プログラム CIBoG 第2期履修生 （[CIBoGプロフィール](https://cibog.med.nagoya-u.ac.jp/outline/students/detail/02-shiina.html)）
 
 ## 研究キーワード
+### 情報学
 - 画像処理
   - モルフォロジー演算
   - 空間フィルタリング
-- AI・機械学習
-  - 深層学習（Deep Learning）
-  - データデザイン
+  - 3次元画像処理
+- 深層学習 / Deep Learning
+  - 畳み込みニューラルネットワーク（CNN）
+
+### 細胞生物学
+- 再生医療・細胞治療
 - 細胞品質管理
   - ラベルフリーイメージング
   - 非侵襲評価

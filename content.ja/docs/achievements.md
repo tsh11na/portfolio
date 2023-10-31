@@ -1,10 +1,19 @@
+---
+title: 業績
+weight: 400
+---
+
 # 業績
 
 ## 研究発表
 
 ### 2023
 
- - Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, “Ambient intelligence for cell manufacturing DX,” YABEC2023, Tainan, Taiwan, 2023.7.13.
+ - Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato,
+ "Importance of data design for developing robust image processing with deep learning," TERMIS-AP2023, Hong Kong Science Park, Hong Kong, 2023.10.19.
+
+ - Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato,
+ “Ambient intelligence for cell manufacturing DX,” YABEC2023, Tainan, Taiwan, 2023.7.13.
 
  - 椎名健, 木村和恵, 田中健二郎, 加藤竜司, “細胞集団ヘテロ性を記述するための細胞形態情報解析,” 第22回日本再生医療学会, 京都, 2023.3.24.
 
@@ -40,18 +49,19 @@
 
 
 ## プロジェクト
- - 情報・生命医科学コンボリューション on グローカルアライアンス卓越大学院（CIBoG）第2期履修生（2020-）
-    - CIBoG Summer BME Program at UNC/NC State University 参加（North Carolina, US, 2023.8-2023.9）
+ - 情報・生命医科学コンボリューション on グローカルアライアンス卓越大学院（CIBoG）第2期履修生 (2020-)
+    - CIBoG Summer BME Program at UNC/NC State University 参加 (North Carolina, US, 2023.8-2023.9)
 
-## 奨学金
- - 名古屋大学融合フロンティアフェローシップ事業 AI・情報分野（2022-）
-
-## 資格等
-### 専門
- - 画像処理エンジニア検定エキスパート（2022.11）
-### 語学
- - TOEIC Listening & Reading Test: Score 870（2022.4）
- - TOEIC Speaking & Writing Test: Score 290（2022.12）
- - 中国語水平考試（HSK）3級（2022.5）
+## 受賞・資格
+### 奨学金
+ - 名古屋大学融合フロンティアフェローシップ事業 AI・情報分野 (2022-)
+   - 2023年度「優秀フェロー」に採択
+### 専門資格
+ - 画像処理エンジニア検定エキスパート (2022.11)
+### 語学資格
+ - TOEIC Listening & Reading Test: Score 870 (2022.4)
+ - TOEIC Speaking & Writing Test: Score 290 (2022.12)
+ - 中国語水平考試 3級 (2022.5), 4級 (2023.10)
+    - ※級が高いほうが高難度
 ### その他
  - 普通自動二輪車運転免許
