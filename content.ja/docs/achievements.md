@@ -59,12 +59,15 @@ weight: 400
 
 ### 専門資格
  - 画像処理エンジニア検定エキスパート (2022.11)
+ - 統計検定2級 (2024.3)
 
 ### 語学資格
  - TOEIC Listening & Reading Test: Score 870 (2022.4)
  - TOEIC Speaking & Writing Test: Score 290 (2022.12)
  - 中国語水平考試 3級 (2022.5), 4級 (2023.10)
     - ※級が高いほうが高難度
+ - Duolingo English Test: Score 125 (CEFR B2) (2024.1)
+ - IELTS Academic module: Score 6.0 (CEFR B2) (2024.2)
 
 ### その他
  - 普通自動二輪車運転免許
