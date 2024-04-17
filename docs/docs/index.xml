@@ -4,19 +4,18 @@
     <title>Docs on 椎名 健</title>
     <link>https://tsh11na.github.io/portfolio/docs/</link>
     <description>Recent content in Docs on 椎名 健</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://tsh11na.github.io/portfolio/docs/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tsh11na.github.io/portfolio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>略歴</title>
       <link>https://tsh11na.github.io/portfolio/docs/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tsh11na.github.io/portfolio/docs/career/</guid>
-      <description>略歴 # 博士課程 | 2022- # 名古屋大学 大学院創薬科学研究科 基盤創薬学専攻
+      <description>略歴 #  博士課程 | 2022- #  名古屋大学 大学院創薬科学研究科 基盤創薬学専攻
 創薬生物科学講座 細胞分子情報学分野（加藤研究室）
-修士課程 | 2020-2022 # 名古屋大学 大学院情報学研究科 知能システム学専攻
+修士課程 | 2020-2022 #  名古屋大学 大学院情報学研究科 知能システム学専攻
 システム知能情報学講座 森研究室
-学部 | 2015-2019 # 名古屋大学 工学部 電気電子・情報工学科
+学部 | 2015-2019 #  名古屋大学 工学部 電気電子・情報工学科
 情報工学コース 石川研究室</description>
     </item>
     
@@ -26,11 +25,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tsh11na.github.io/portfolio/docs/research/</guid>
-      <description>研究内容 # 細胞画像解析（博士課程／2022-） # 深層細胞画像解析モデルに求められる学習データ要件を検証しています。
+      <description>研究内容 #  細胞画像解析（博士課程／2022-） #  深層細胞画像解析モデルに求められる学習データ要件を検証しています。
 再生医療や細胞治療は、難治性疾患等を治す新たな治療法です。しかし、治療用細胞の製造には熟練者の感覚と経験が必要で、製品の高額化や品質の不安定性が課題となっています。AIによる自動的な細胞品質評価が期待されていますが、バイオデータの収集には膨大なコストがかかるため、「どんなデータを、どの程度収集する必要があるのか」ということを明確にする必要があります。そこで私は、多様なデータセットで学習させた深層学習モデルの応答を比較し、必要な画像枚数や用意すべき細胞形態のバリエーションなどの要件を検証しています。
-医用画像処理（修士課程／2019-2022） # 肺CT画像から微細構造領域を抽出するための画像フィルタについて研究しました。
+医用画像処理（修士課程／2019-2022） #  肺CT画像から微細構造領域を抽出するための画像フィルタについて研究しました。
 肺の末端には、肺胞や肺胞管などの「不明瞭構造」があります。これらの構造は三次元的に入り組んだ配置に加え、壁が途切れているという特性から、CT画像上で非常に不明瞭に映ります。そのため、医師にとって観察が困難であり、病態解明に課題を生じていました。そこで、私はこの不明瞭構造の領域を抽出するために、距離変換を応用して壁の途切れを補う新たな画像フィルタとして「不明瞭構造フィルタ」を開発しました。開発したフィルタを実際にCT画像に適用することで、細気管支・肺胞管・肺胞の構造の抽出と直感的な可視化ができることを示しました。
-データベース（学部／2018-2019） # 3D TINと呼ばれるデータ構造に特化したデータベースについて研究しました。
+データベース（学部／2018-2019） #  3D TINと呼ばれるデータ構造に特化したデータベースについて研究しました。
 TIN（Triangulated Irregular Network）は、三角形の集合で領域を表現するデータ構造です。各頂点に3次元座標を与えた3D TINは、三次元地図などの立体構造を効率的に表現する手法として期待されています。しかし、3D TINは現状、バイナリファイルに格納されていることが多く、3Dデータの大規模化や活用場面の広がりに対応するためには、より効率的なデータ格納方法の開発が求められていました。そこで、私は、先行研究として提案されていた2D TINのデータベース格納手法およびTIN操作処理系を3次元に拡張する手法を考案しました。また、OSSデータベースフレームワークを利用して実装およびテストデータでの検証を行い、考案した手法が実現可能であることを確かめました。</description>
     </item>
     
@@ -40,14 +39,9 @@ TIN（Triangulated Irregular Network）は、三角形の集合で領域を表�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tsh11na.github.io/portfolio/docs/coding/</guid>
-      <description>コーディングスキル # 使用経験のあるツール # プログラミング言語 # Python Pandas scikit-learn scikit-image/OpenCV Django Flask Jupyter Notebook C言語 C++ JavaScript Google Apps Script R言語 Go言語 その他 # Linux Ubuntu Docker Git/GitHub GitHub Actions 開発経験 # ツケ管理Webアプリ &amp;ldquo;Tsukepp&amp;rdquo; # https://github.com/tsh11na/tsukepp
+      <description>コーディングスキル #  使用経験のあるツール #  プログラミング言語 #   Python  Pandas scikit-learn scikit-image/OpenCV Django Flask Jupyter Notebook   C言語 C++ JavaScript  Google Apps Script   R言語 Go言語  その他 #   Linux  Ubuntu   Docker Git/GitHub  GitHub Actions    開発経験 #  ツケ管理Webアプリ &amp;ldquo;Tsukepp&amp;rdquo; #  https://github.com/tsh11na/tsukepp
 個人商店などでのツケを記録、清算できるアプリケーション
-使用技術：Python (Django), PostgreSQL, GitHub Actions 開発人数：自分のみ 病院向け予約システム # 病院の検体検査の予約処理（メール送信、カレンダー登録など）を自動化するシステム
-使用技術：Google Apps Script 開発人数：自分のみ 続報記事の自動特定機構 # 新聞記事の続報を自動的に取得し、表示するWebアプリケーション
-（新聞社のインターンシップ課題として取り組み）
-使用技術：Python (Flask), Docker, 形態素解析器 &amp;ldquo;MeCab&amp;rdquo; 開発人数：3人 3日間のハッカソン形式 Webパフォーマンスチューニング # 低速な模擬ECサイトをパフォーマンスチューニングする課題
-（人材系企業のインターンシップ課題として取り組み）
-使用技術：Go, Docker 開発人数：3人 2日間のハッカソン形式 研究室用備品管理システム # 研究室のPCやディスプレイなどの備品を「今、誰が使っているか」を一元管理できるアプリ</description>
+ 使用技術：Python (Django), PostgreSQL, GitHub Actions 開発人数：自分のみ  病院向け予約システム #  病院の検体検査の予約処理（メール送信、カレンダー登録など）を自動化するシステム</description>
     </item>
     
     <item>
@@ -56,10 +50,9 @@ TIN（Triangulated Irregular Network）は、三角形の集合で領域を表�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tsh11na.github.io/portfolio/docs/achievements/</guid>
-      <description>業績 # 研究発表 # 2023 # Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, &amp;ldquo;Importance of data design for developing robust image processing with deep learning,&amp;rdquo; TERMIS-AP2023, Hong Kong Science Park, Hong Kong, 2023.10.19.
-Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, “Ambient intelligence for cell manufacturing DX,” YABEC2023, Tainan, Taiwan, 2023.7.13.
-椎名健, 木村和恵, 田中健二郎, 加藤竜司, “細胞集団ヘテロ性を記述するための細胞形態情報解析,” 第22回日本再生医療学会, 京都, 2023.3.24.
-椎名健, 木村和恵, 竹本悠人, 田中健二郎, 加藤竜司, “深層細胞解析モデルのロバスト化を実現するデータ要件の検証,” 化学工学会第88年会, 東京, 2023.</description>
+      <description>業績 #  研究発表 #  2023年度 #    Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, &amp;ldquo;Importance of data design for developing robust image processing with deep learning,&amp;rdquo; TERMIS-AP2023, Hong Kong Science Park, Hong Kong, 2023.10.19.
+  Takeru Shiina, Kazue Kimura, Yuto Takemoto, Kenjiro Tanaka, Ryuji Kato, “Ambient intelligence for cell manufacturing DX,” YABEC2023, Tainan, Taiwan, 2023.7.13.
+  椎名健, 木村和恵, 竹本悠人, 田中健二郎, 加藤竜司, &amp;ldquo;深層学習を用いた細胞画像解析における最適なデータデザインの検証,&amp;rdquo; 2023年度生物工学若手研究者の集い（若手会）夏のセミナー2023, 富山, 2023.</description>
     </item>
     
   </channel>
