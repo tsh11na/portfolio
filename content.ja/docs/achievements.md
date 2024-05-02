@@ -70,4 +70,5 @@ weight: 400
  - IELTS Academic module: Score 6.0 (CEFR B2) (2024.2)
 
 ### その他
+ - 普通自動車第一種運転免許
  - 普通自動二輪車運転免許
